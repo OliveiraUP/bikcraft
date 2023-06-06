@@ -15,6 +15,7 @@ h4,
 ul,
 p,
 blockquote,
+dd,
 body {
   margin: 0px;
 }
@@ -27,9 +28,8 @@ a {
 img {
   max-width: 100%;
   display: block;
-  
 }
 
-img[src$=".jpg"]{
-  border-radius: 6px
+img[src$=".jpg"] {
+  border-radius: 6px;
 }
