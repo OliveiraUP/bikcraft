@@ -1,6 +1,7 @@
 @import "/css/global/global.css";
 @import "/css/utilidades/tipografia.css";
 @import "/css/utilidades/cores.css";
+@import "/css/utilidades/animacao.css";
 @import "/css/global/header.css";
 
 /* Utilidades */
@@ -34,4 +35,3 @@
 
 /* termos */
 @import "/css/termos/termos.css";
-
